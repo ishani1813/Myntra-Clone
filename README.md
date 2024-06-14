@@ -1,3 +1,3 @@
-# Myntra-Clone
+# small projects
 
 vite + reactjs
